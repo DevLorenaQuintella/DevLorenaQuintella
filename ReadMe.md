@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Ads.<br>👯 Estou em busca de estágio<br>🌱 Aprendendo C e Front end.<br>⚡ Eu era da Saúde
+🔭 Sou estudante de Ads.<br>👯 Estou em busca de estágio<br>🌱 Aprendendo Front end.<br>⚡ Eu era da Saúde
 
 
 ## 🌐 Socials:
